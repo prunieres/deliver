@@ -1,0 +1,21 @@
+.input-btn > :first-child {
+  border-radius: 10px 0 0 10px;
+}
+.input-btn > :last-child {
+  border-radius: 0 10px 10px 0;
+}
+.input-btn button {
+  background-color: #8dd287;
+}
+.input-btn button, .input-btn input {
+  border: none;
+  font-size: 1.2rem;
+  line-height: 3em;
+  padding: 0 2em;
+}
+
+header {
+  background-color: #98d5de;
+}
+
+/*# sourceMappingURL=style.css.map */

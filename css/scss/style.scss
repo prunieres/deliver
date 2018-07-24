@@ -1,0 +1,22 @@
+.input-btn {
+
+
+    >:first-child {
+        border-radius: 10px 0 0 10px;
+    }
+    >:last-child {
+        border-radius: 0 10px 10px 0;
+    }
+    button {
+        background-color: rgb(141, 210, 135);
+    }
+    button, input {
+        border: none;
+        font-size: 1.2rem;
+        line-height: 3em;
+        padding: 0 2em;
+    }
+}
+header {
+    background-color: rgb(152, 213, 222);
+}
